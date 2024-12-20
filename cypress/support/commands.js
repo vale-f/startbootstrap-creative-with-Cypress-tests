@@ -29,3 +29,7 @@ import 'cypress-real-events';
 Cypress.Commands.add('clickButton', (buttonSelector, options = {}) => {
     cy.get(buttonSelector).click(options);
 });
+
+Cypress.Commands.add('addInput', (field, input) => {
+    cy.get(field, { timeout: 10000 }).should('be.visible').type(input);
+});
