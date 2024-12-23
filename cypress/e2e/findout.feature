@@ -1,5 +1,6 @@
 Feature: "Find out more" button functionality
 
+    @findout-button
     Scenario: Clicking "Find out more" should scroll to the correct section
         Given I am on the homepage
         When I click the "Find out more" button
