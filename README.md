@@ -5,7 +5,7 @@ In broad terms, the following functionalities are covered:
 - Portfolio gallery display and navigation
 
 
---------- Original README ---------
+--------- Original README below ---------
 
 # [Start Bootstrap - Creative](https://startbootstrap.com/theme/creative/)
 
