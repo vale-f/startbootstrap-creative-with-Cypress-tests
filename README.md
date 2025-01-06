@@ -1,4 +1,4 @@
-This repository contains automated E2E tests written using Cypress and Cucumber for the StartBootstrap project.
+This repository contains the StartBootstrap project along with automated E2E tests written using Cypress and Cucumber.
 In broad terms, the following functionalities are covered:
 - Navigation through various pages (About, Services, Portfolio, Contact, etc.)
 - Form submissions and validation
