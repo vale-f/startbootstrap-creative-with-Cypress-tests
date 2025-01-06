@@ -1,3 +1,12 @@
+This repository contains automated E2E tests written using Cypress and Cucumber for the StartBootstrap project.
+In broad terms, the following functionalities are covered:
+- Navigation through various pages (About, Services, Portfolio, Contact, etc.)
+- Form submissions and validation
+- Portfolio gallery display and navigation
+
+
+--------- Original README ---------
+
 # [Start Bootstrap - Creative](https://startbootstrap.com/theme/creative/)
 
 [Creative](https://startbootstrap.com/theme/creative/) is a one page, creative website theme built with [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
